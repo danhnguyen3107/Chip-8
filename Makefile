@@ -5,4 +5,4 @@ run:
 	./main 10 11 Source/Rom/Tetris.ch8
 
 clean:
-	rm main
+	rm ./main.exe
